@@ -1,4 +1,4 @@
-Actually, OP_CAT has been in a quantum state on the chain ever since it was removed. It's just that when we observe, it collapses into a state of non-existence. So, let's close our eyes and search for it!
+In fact, ever since its removal, OP_CAT has existed in a quantum state within the blockchain. This state persists until we observe it, at which point it collapses into non-existence. Therefore, let's close our eyes and seek it out!
 
 The following is the leaked code:
 
